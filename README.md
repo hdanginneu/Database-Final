@@ -1,7 +1,7 @@
 
 
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### Step 1 — Install Python dependency
 ```bash
@@ -43,7 +43,7 @@ python main.py
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 ```
 delivery_system/
@@ -57,7 +57,7 @@ delivery_system/
 
 ---
 
-## 🗃️ Database Objects
+##  Database Objects
 
 ### Tables
 | Table | Description |
